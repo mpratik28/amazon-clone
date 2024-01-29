@@ -1,0 +1,220 @@
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  border: border-box;
+}
+.nav {
+  height: 60px;
+  background-color: #0f1111;
+  color: white;
+  display: flex;
+  align-items: center;
+  
+}
+.nav-logo {
+  height: 50px;
+  width: 100px;
+}
+.logo {
+  background-image: url(https://logos-world.net/wp-content/uploads/2020/04/Amazon-Emblem.jpg);
+  background-size: cover;
+  height: 50px;
+  width: 100%;
+}
+.border {
+  border: 2px solid black;
+  border: none;
+}
+.border:hover {
+  border: 2px solid white;
+  cursor: pointer;
+}
+/* box2 */
+.adrss-first {
+  color: #cccccc;
+  font-size: 0.85rem;
+  margin-left: 15px;
+  margin-top: 2px;
+}
+.adrss-second {
+  font-size: 1rem;
+  margin-left: 15px;
+  margin-top: 2px;
+}
+.nav-search {
+  display: flex;
+  background-color: pink;
+  width: 700px;
+  height: 40px;
+  border-radius: 4px;
+  margin-left: 165px;
+}
+.search-select {
+  background-color: #f3f3f3;
+  width: 50px;
+  text-align: center;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border: none;
+}
+.search-input {
+  width: 700px;
+}
+.lan-select {
+  margin-left: 40px;
+  height: 25px;
+  background-color: #0f1111;
+  color: white;
+  border: none;
+}
+.accounts {
+  font-size: 16px;
+  margin-left: 41px;
+  background-color: #0f1111;
+  color: white;
+  border: none;
+}
+.order {
+  font-size: 15px;
+  margin-left: 42px;
+  background-color: #0f1111;
+  color: white;
+  border: none;
+}
+.cart {
+  font-size: 18px;
+  margin-left: 42.5px;
+  background-color: #0f1111;
+  color: white;
+  border: none;
+}
+.second-nav {
+  height: 30px;
+  background-color: #222f3d;
+}
+.menu {
+  display: flex;
+  color: white;
+  justify-content: space-evenly;
+}
+.phone {
+  background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/Img22/Headphone/CE/32/Under_1499_Tallhero_3000x1200._CB583388552_.jpg);
+  height: 400px;
+  background-size: cover;
+}
+.shop {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: bisque;
+}
+.box {
+  height: 420px;
+  width: 360px;
+  border: 2px solid black;
+  background-color: white;
+}
+.box1-img {
+  height: 300px;
+  padding: 20px 0px 15px;
+  width: 350px;
+  margin-left: 0.5rem;
+  margin-right: 1rem;
+  
+}
+.box2-img{
+    height: 300px;
+  padding: 20px 0px 15px;
+  width: 350px;
+  margin-left: 0.5rem;
+  margin-right: 1rem;  
+}
+.box3-img{   height: 300px;
+    padding: 20px 0px 15px;
+    width: 350px;
+    margin-left: 0.5rem;
+    margin-right: 1rem;  
+}
+.box4-img{
+    height: 340px;
+    padding: 20px 0px 15px;
+    width: 350px;
+    margin-left: 0.5rem;
+    margin-right: 1rem;  
+}
+.shop2{
+    background-color:bisque ;
+    display: flex;
+    justify-content: space-evenly  ;
+    margin-top: 10px;  
+}
+.box5-img{
+    height: 290px;
+    padding: 20px 0px 15px;
+    width: 350px;
+    margin-left: 0.5rem;
+    margin-right: 1rem;  
+}
+.box6-img{
+    height: 300px;
+    padding: 20px 0px 15px;
+    width: 350px;
+    margin-left: 0.5rem;
+    margin-right: 1rem;  
+}
+.box7-img{
+    height: 300px;
+    padding: 20px 0px 15px;
+    width: 350px;
+    margin-left: 0.5rem;
+    margin-right: 1rem;  
+}
+.box8-img{
+    height: 340px;
+    padding: 20px 0px 15px;
+    width: 350px;
+    margin-left: 0.5rem;
+    margin-right: 1rem;  
+}
+footer{
+    margin-top: 15px;
+}
+.foot-panel1{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+.foot-panel2{
+    background-color: #222f3d;
+    color: white;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul a{
+    display: block;
+    color: #DDDDDD;
+    text-decoration: none;
+    font-size: 0.85rem;
+    margin-top: 10px;
+}
+.foot-panel3{
+    background-color: #222f3d;
+    color: white;
+    border-top: 0.5px solid white;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+.logo2{
+    background-image: url(https://th.bing.com/th/id/OIP.g3gkI-oBYn17Sh1FPRAU5QAAAA?rs=1&pid=ImgDetMain);
+  background-color: #222f3d;
+  background-size: cover;
+  height: 50px;
+  width: 100px;
+  
+}
+
